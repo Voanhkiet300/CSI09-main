@@ -1,0 +1,37 @@
+Câu 1. Bài toán nào sau đây không thể giải quyết bằng biến thể của thuật toán tìm kiếm tuần tự?
+    A. Tìm số học sinh thuộc dân tộc thiểu số trong một danh sách học sinh cho trước.
+    B. Tìm danh sách nghiệm của một phương trình bậc 2.
+    C. Tìm thông tin khách hàng có số điện thoại 0987456123 trong danh sách khách hàng.
+    D. Tìm số ngày trong tháng có nhiệt độ cao hơn trung bình, dựa vào thông tin về nhiệt độ của các ngày trong tháng.
+Đáp án: B
+
+Câu 2. Cho một dãy n số nguyên được sắp xếp tăng dần, thuật toán tìm kiếm nhị phân đảm bảo tìm ra kết quả (có thể tìm thấy hoặc không tìm thấy) sau khi kiểm tra tối đa bao nhiêu giá trị? Bao gồm cả giá trị tìm thấy nếu có.
+    A. n
+    B. log2(n), làm tròn xuống
+    C. log2(n), làm tròn lên
+    D. log2(n) + 1, làm tròn xuống
+Đáp án: B
+
+
+Câu 3. Chọn phát biểu đúng về thuật toán tìm kiếm nhị phân.
+    A. Thuật toán này chỉ có thể sử dụng được trên danh sách các số nguyên
+    B. Thuật toán này chỉ có thể sử dụng được trên danh sách chứa các phần tử có kiểu dữ liệu cơ bản (int, float, boolean,...)
+    C. Thuật toán này chỉ có thể sử dụng được trên danh sách đã được sắp xếp tăng dần
+    D. Thuật toán này chỉ có thể sử dụng được trên danh sách đã được sắp xếp
+Đáp án: D
+
+
+Câu 4. Đâu không phải là một yếu tố cần có của một thuật toán đệ quy?
+    A. Công thức truy hồi
+    B. Điều kiện dừng
+    C. Vòng lặp
+    D. Khả năng đưa về một bài toán nhỏ hơn cùng loại
+Đáp án: C
+
+
+Câu 5. Ta cần cân nhắc điều gì khi thực hiện một thuật toán đệ quy?
+    A. Khả năng tràn bộ nhớ stack
+    B. Độ phức tạp về thời gian
+    C. Độ phức tạp về không gian
+    D. Tất cả các ý trên
+Đáp án: D
